@@ -8,3 +8,9 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente.
 - Ayuda a concentrarse y a ordenar tus pensamiento
 - Mejora el estado de ánimo
 
+## Instrucciones
+- Preparación
+- Respiración Consciente 
+- Calentamiento
+- Asanas (Posturas) 
+- Relajación y Meditación
