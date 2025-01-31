@@ -11,3 +11,6 @@ Deporte que consiste en la lucha a puñetazos de dos contendientes, de conformid
 ## Instrucciones
 1. Primero inicia practicando con un saco de boxeo
 2. Luego ve aprendiendo nuevos golpes
+
+## Consejos 
+- Empieza a aprender cada día golpes nuevos
