@@ -14,3 +14,7 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente.
 - Calentamiento
 - Asanas (Posturas) 
 - Relajación y Meditación
+
+## Consejos
+- Manten las correctas posturas en cada ejercicio
+
