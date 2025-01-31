@@ -11,3 +11,5 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 1. Primero inicie nadando en una piscina no tan onda
 2. Empieza a intentar soltarte dando vueltas 
 
+## Consejos
+- Usa flotadores si estas aprendiendo
