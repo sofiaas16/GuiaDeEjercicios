@@ -10,3 +10,7 @@
 ## Instrucciones
 1. Divide tus entrenamientos semanales en días para la parte superior del cuerpo y días para la parte inferior del cuerpo
 2. Antes de realizar cada rutina, haz calentamiento para que tus músculos estén preparados
+
+## Consejos
+- Cada ejercicio hazlo por 2 minutos y toma un descanso de 1
+- Determina tus objetivos fitness
