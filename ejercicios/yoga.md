@@ -1,0 +1,20 @@
+# Ejercicio Yoga
+
+## Descripción 
+El yoga es una práctica que conecta el cuerpo, la respiración y la mente.
+
+## Beneficios
+- Aumenta la flexiblidad
+- Ayuda a concentrarse y a ordenar tus pensamiento
+- Mejora el estado de ánimo
+
+## Instrucciones
+- Preparación
+- Respiración Consciente 
+- Calentamiento
+- Asanas (Posturas) 
+- Relajación y Meditación
+
+## Consejos
+- Manten las correctas posturas en cada ejercicio
+
